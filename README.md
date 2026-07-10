@@ -31,9 +31,10 @@ Projects:
 
 ### 🚧 Week 2
 Current focus:
-- Functions
 - Loops
-- ...
+- Collections
+- Functions
+- Comprehension
 
 
 ## 🛠️ Tech Stack
