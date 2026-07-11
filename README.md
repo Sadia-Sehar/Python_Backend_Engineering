@@ -36,6 +36,9 @@ Current focus:
 - Functions
 - Comprehension
 
+Projects:
+-Practice Exercises
+
 
 ## 🛠️ Tech Stack
 
