@@ -37,8 +37,8 @@ Current focus:
 - Comprehension
 
 Projects:
--Practice Exercises
-
+- Practice Exercises
+- To-Do List Manager
 
 ## 🛠️ Tech Stack
 
